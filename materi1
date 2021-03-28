@@ -1,0 +1,16 @@
+=== Syntax ====
+
+++ <?php echo "...."; ?>
+++ ;                                        = memisahkan anatara syntax
+++ //                                       = Komentar
+++ echo                                     = untuk printout
+
+
+
+
+=== Penjelasan ===
+
+++ Code PHP dapat tertanam di dalam HTML. Dengan menggunakan tag PHP spesial <?php ... ?>, Anda dapat menulis instruksi didalamnya. 
+   Code yang ditulis di dalam <?php ... ?> akan diubah menjadi HTML dan ditampilkan.
+++ Titik koma ; digunakan untuk memisahkan statement di PHP. Akan ada error jika sintaksis Anda kurang titik koma, jadi mari berhati-hati! Selain itu,
+   baris-baris yang dimulai dengan // disebut komentar dan tidak dijalankan. Komentar tidak akan mempengaruhi code Anda, namun sangat berguna untuk mendokumentasikan dan membuat catatan.
